@@ -68,5 +68,5 @@ The app is ready to be deployed to platforms like Vercel or Netlify.
 ## Author
 
 This project was implemented as a test task for a car rental service.  
-Author: _[add your name, GitHub profile and contact information here]_.
+Author: Yevhen Shymka.
 
